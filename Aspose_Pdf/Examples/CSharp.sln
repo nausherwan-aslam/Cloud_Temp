@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_REST", "CSharp\CSharp_REST\CSharp_REST.csproj", "{679392CB-23E0-41F8-B7D1-0DEA7EA202FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_SDK", "CSharp\CSharp_SDK\CSharp_SDK.csproj", "{20EEE655-56E7-4283-87BB-A87F7E2D33A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{679392CB-23E0-41F8-B7D1-0DEA7EA202FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679392CB-23E0-41F8-B7D1-0DEA7EA202FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679392CB-23E0-41F8-B7D1-0DEA7EA202FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679392CB-23E0-41F8-B7D1-0DEA7EA202FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20EEE655-56E7-4283-87BB-A87F7E2D33A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20EEE655-56E7-4283-87BB-A87F7E2D33A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20EEE655-56E7-4283-87BB-A87F7E2D33A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20EEE655-56E7-4283-87BB-A87F7E2D33A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
